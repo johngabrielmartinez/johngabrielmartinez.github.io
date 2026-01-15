@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/house-true-street.jpg
 title: "Independent Residential House Design Using AutoCAD"
 date: Fall 2024
 published: true
@@ -13,9 +13,9 @@ summary: "An independently developed residential house design created using Auto
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/house-military.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/house-section.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/house-street.jpg" class="img-thumbnail" >
 </div>
 
 This project involved independently designing a multi-level residential house using AutoCAD. The goal was to develop a complete architectural design that addressed spatial organization, circulation, and overall functionality. The work included creating exterior views, sectional drawings, and interior spatial studies to explore how different levels, rooms, and transitions interact within the structure.
