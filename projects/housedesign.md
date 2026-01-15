@@ -24,5 +24,3 @@ I was solely responsible for all aspects of the design and drafting process. Thi
 
 Through this project, I gained hands-on experience using AutoCAD to translate conceptual ideas into precise technical drawings. I learned how sectional and interior drawings reveal spatial relationships that are not immediately apparent in exterior views alone. This process reinforced the importance of iterative refinement, attention to detail, and structured planning when working on a complex, multi-scale design project.
 
-## Artifacts
-- AutoCAD drawings including exterior views, sectional drawings, and interior spatial studies.
