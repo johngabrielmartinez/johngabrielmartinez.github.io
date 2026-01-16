@@ -13,9 +13,9 @@ summary: "A series of physical study models exploring massing, circulation, sect
 ---
 
 <div class="text-center p-4">
-  <img width="220px" src="img/arch-models/model-squares.jpg" class="img-thumbnail" alt="Cardboard massing study model">
-  <img width="220px" src="img/arch-models/model-hybrid.jpg" class="img-thumbnail" alt="Hybrid model with sectional stair study">
-  <img width="220px" src="img/arch-models/model-lines.jpg" class="img-thumbnail" alt="Sectional model with human-scale figures">
+  <img width="200px" src="../img/arch-models/model-lines.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/arch-models/model-squares.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/arch-models/model-hybrid.jpg" class="img-thumbnail" >
 </div>
 
 This project consisted of a series of physical study models created to explore spatial organization, massing, and circulation at a human scale. Rather than designing a finished building, the focus was on understanding how volumes relate to one another through stacking, offsetting, carving, and framing. Each model was used as a tool to investigate how space is experienced through movement, section, and proportion.
