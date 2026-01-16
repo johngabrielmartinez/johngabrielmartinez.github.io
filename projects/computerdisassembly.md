@@ -12,7 +12,7 @@ summary: "A hands-on project involving the complete disasembly, inspection, and 
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/pc-assembly/pc-back" class="img-thumbnail" >
+  <img width="200px" src="../img/pc-assembly/pc-back.jpg" class="img-thumbnail" >
   <img width="200px" src="../img/pc-assembly/pc-open.jpg" class="img-thumbnail" >
   <img width="200px" src="../img/pc-assembly/pc-disassembled.jpg" class="img-thumbnail" >
 </div>
