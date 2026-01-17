@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "From Blueprints to Code"
 # All dates must be YYYY-MM-DD format!
-date: 20126-01-16
+date: 2026-01-16
 published: true
 labels:
   - Software Engineering
