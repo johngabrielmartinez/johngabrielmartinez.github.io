@@ -12,7 +12,7 @@ labels:
   - Design
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/unfinished-house.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/unfinished-house.png">
 
 When I first began studying architecture, I believed I was learning how to design buildings. What I did not expect was that I was really learning how to design systems. Floor plans, circulation paths, structural grids, and building codes all forced me to think about how individual parts come together to form something that must function reliably for real people. That way of thinking followed me when I transitioned into computer science, and it has fundamentally changed how I approach software engineering.
 
