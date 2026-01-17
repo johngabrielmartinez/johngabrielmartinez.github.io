@@ -3,4 +3,13 @@ title: Essays
 layout: home
 ---
 
-{% include essays/essays.html %}
+{% assign essays = site.pages | where: "type", "essay" | where: "published", true | sort: "date" | reverse %}
+
+{% for essay in essays %}
+  <div class="mb-3">
+    <h3 class="h5 mb-1">
+      <a href="{{ essay.url | relative_url }}">{{ essay.title }}</a>
+    </h3>
+    <small class="text-muted">{{ essay.date | date: "%Y-%m-%d" }}</small>
+  </div>
+{% endfor %}
