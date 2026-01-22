@@ -16,8 +16,8 @@
   "interests": [
     { "name": "Interactive Media" },
     { "name": "Game Development" },
-    { "name": "Computer Security and Trust" },
-    { "name": "Programming Fundamentals" }
+    { "name": "Secure Systems Design" },
+    { "name": "Algorithmic Thinking" }
   ],
   "skills": [
     {
@@ -29,8 +29,8 @@
       "keywords": [ "HTML", "CSS" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "Windows", "Unix Environment", "Git/GitHub", "Command Line" ]
+      "name": "Tools & Environments",
+      "keywords": [ "Windows", "Unix/Linux Environment", "Git/GitHub", "Command Line" ]
     }
   ],
   "education": [
