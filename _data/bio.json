@@ -31,6 +31,10 @@
     {
       "name": "Tools & Environments",
       "keywords": [ "Windows", "Unix/Linux Environment", "Git/GitHub", "Command Line" ]
+    },
+    {
+      "name": "Design & Modeling Tools",
+      "keywords": [ "AutoCAD" ]
     }
   ],
   "education": [
