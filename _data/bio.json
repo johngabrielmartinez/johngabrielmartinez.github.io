@@ -30,7 +30,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows", "Unix Environment", "Git/GitHub", "Command Line", "jGRASP" ]
+      "keywords": [ "Windows", "Unix Environment", "Git/GitHub", "Command Line" ]
     }
   ],
   "education": [
