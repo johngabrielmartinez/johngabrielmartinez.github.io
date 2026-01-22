@@ -26,4 +26,4 @@ Through this project, I gained practice working with console input and output, a
 
 This project was implemented in Java. The source code can be found here:
 
-- [Seconds Calculator (Java)](https://github.com/johngabrielmartinez/johngabrielmartinez.github.io/tree/main/projects/basic-java)
+- [Java Algorithms Practice Repository](https://github.com/johngabrielmartinez/johngabrielmartinez.github.io/tree/main/projects/basic-java)
