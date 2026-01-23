@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Learning TypeScript under Pressure"
+title: "Learning TypeScript Under Pressure"
 date: 2026-01-22
 published: true
 labels:
