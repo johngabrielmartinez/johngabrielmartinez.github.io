@@ -11,7 +11,7 @@ labels:
   - Athletic Software Engineering
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/unfinished-house.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/ts-reflection/tsreflection1.jpg">
 
 Coming into this module, TypeScript felt familiar on the surface but different in practice. Having prior experience with Java and some exposure to JavaScript, I expected TypeScript to be simply “JavaScript with types.” What I quickly realized is that TypeScript changes how you *think* about code. Types force you to be explicit about intent, assumptions, and edge cases much earlier than in JavaScript. Compared to Java, TypeScript feels lighter and more flexible, but still provides enough structure to prevent many common mistakes. That balance has made me more aware of how design decisions show up even in small programs.
 
