@@ -10,7 +10,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/smart-qestions/smart-questions-comic.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/smart-questions-comic.jpg">
 
 ## Is There Such a Thing as a Bad Question?
 
