@@ -50,6 +50,10 @@ void func(Optional&& optional) {
     }
     auto b = optional.has_value();
 }
+
+int main() {
+    func(std::optional(std::string()));
+}
 ```
 
 These snippets are short, relevant, and demonstrate the exact source of confusion without overwhelming the reader. The author also references a previous Stack Overflow answer that caused the uncertainty, showing that they had already done research and were trying to reconcile conflicting information.
