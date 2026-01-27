@@ -10,6 +10,8 @@ labels:
   - Software Engineering
 ---
 
+<img width="200px" class="rounded float-start pe-4" src="../img/smart-qestions/smart-questions-comic.jpg">
+
 ## Is There Such a Thing as a Bad Question?
 
 Early on in my education, I often heard instructors say that “there’s no such thing as a stupid question.” While the intention behind that statement is encouraging, my experience in technical communities has shown that the way a question is asked can make a significant difference in the kind of response it receives. In software engineering especially, asking questions clearly and thoughtfully is a skill that directly affects how efficiently problems get solved.
