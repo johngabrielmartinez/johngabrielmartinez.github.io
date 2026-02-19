@@ -10,7 +10,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/ui-frameworks/bootstrap-example.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/ui-frameworks/bootstrap.jpg">
 
 ## The Part Nobody Talks About
 
