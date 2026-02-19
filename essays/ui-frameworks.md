@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Why UI Frameworks Are Worth the Frustration"
+title: "UI Frameworks: Painful at First, Worth It Later"
 date: 2026-02-19
 published: true
 labels:
@@ -12,19 +12,21 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/ui-frameworks/bootstrap-example.png">
 
-## The Intimidation Phase
+## The Part Nobody Talks About
 
-When I first started using Bootstrap 5, it felt excessive. There were utility classes for everything: spacing, alignment, flex behavior, breakpoints, typography, colors, grids. It almost felt like learning another programming language layered on top of HTML and CSS. At that point, I questioned whether it was worth the effort. Why not just write raw CSS and control everything directly?
+I’ll be honest: learning a UI framework felt like a pain in the ass at first.
 
-The confusion mostly came from the sheer volume of options. I did not immediately understand when to use `container` versus `container-fluid`, or why `col-md-6` behaved differently at certain screen widths. The grid system felt rigid at first. During my early rebuild exercises, I spent more time adjusting classes than actually building features.
+When we started using Bootstrap 5, it slowed me down a lot compared to just writing raw CSS. Instead of styling things directly, I had to remember class names for spacing, layout, flex behavior, breakpoints, alignment, and more. It felt like extra steps for something I already knew how to do.
 
-But that frustration turned out to be the turning point.
+During timed WODs, that frustration was even worse. I would finish the layout logic in my head, but then spend extra minutes adjusting classes and figuring out why something wasn’t aligning correctly. At that point, it honestly felt like Bootstrap was getting in the way.
 
-## Structure Over Chaos
+So naturally, I wondered: why not just use HTML and CSS?
 
-The biggest realization came during the Island Snow rebuild and later when recreating a local business website using Bootstrap. Once the grid system clicked, development speed increased dramatically. Instead of writing custom CSS for margins, alignment, responsiveness, and layout structure, I could compose layouts using predictable building blocks.
+## Why It Started Making Sense
 
-For example, creating a responsive three-column layout did not require media queries. It required something as simple as:
+The turning point came after a few rebuild exercises. Something clicked.
+
+Instead of fighting the grid system, I started thinking in terms of rows and columns automatically. Instead of writing custom media queries, I could use something like:
 
 ```html
 <div class="row">
@@ -33,54 +35,59 @@ For example, creating a responsive three-column layout did not require media que
   <div class="col-md-4">...</div>
 </div>
 ```
-The framework handled responsiveness automatically. That abstraction removes repetitive work. Instead of reinventing layout logic for every project, Bootstrap provides a reliable foundation.
 
-UI frameworks are not about avoiding CSS. They are about organizing it.
+And the responsiveness was handled for me.
 
-## Software Engineering Benefits
+Once I got used to the patterns, my speed increased. I wasn’t slower anymore. I was faster. Layout became more predictable. I didn’t have to constantly tweak margins or test breakpoints manually.
 
-Beyond convenience, UI frameworks introduce real software engineering advantages.
+What originally felt like overhead started feeling like structure.
 
-First, they promote consistency. When multiple developers use the same framework, the design system becomes standardized. Spacing, typography, button styles, and layout behavior follow conventions instead of individual preferences. This makes collaboration smoother and reduces friction during code reviews.
+## Higher Quality With Less Effort
 
-Second, frameworks improve maintainability. When someone sees `navbar`, `container`, or `card`, they immediately understand the structure. The code becomes readable at a glance. In contrast, heavily customized raw CSS often requires tracing styles across multiple files.
+One thing I didn’t expect was how much cleaner my pages looked.
 
-Third, they reduce unnecessary decision-making. Instead of debating margin sizes or alignment methods, developers use predefined utility classes. This removes trivial choices and allows more focus on functionality and user experience.
+Using Bootstrap made my layouts more consistent. Spacing felt balanced. Components lined up properly. Responsive behavior worked without me having to debug it for an hour.
 
-These are not cosmetic benefits. They are structural improvements.
+Could I have built those pages with pure CSS? Yes.
 
-## The Case for Raw HTML and CSS
+Would it have taken longer? Definitely.
 
-That said, UI frameworks are not mandatory for every project.
+Bootstrap didn’t remove my need to understand CSS. In fact, understanding CSS made Bootstrap easier to use. But it gave me a system. And that system helped me build higher-quality pages more efficiently.
 
-Raw HTML and CSS offer complete control. For highly customized branding, performance-critical interfaces, or experimental designs, frameworks can feel restrictive. They can also encourage generic-looking layouts if developers rely too heavily on default styling.
+## The Software Engineering Side
 
-Additionally, using a framework without understanding CSS fundamentals can be dangerous. Frameworks are tools, not substitutes for knowledge. Without understanding how layout actually works, customization becomes difficult.
+Beyond convenience, I started noticing the software engineering benefits.
 
-Learning raw CSS first builds stronger intuition. Frameworks then become amplifiers of that knowledge.
+Frameworks promote consistency. When multiple developers use the same system, layout decisions aren’t random. There’s a shared structure. When you see `navbar`, `container`, or `card`, you already know what’s happening.
 
+That makes code easier to read and maintain.
 
-## When to Use a UI Framework
+It also reduces unnecessary decisions. I don’t have to think about exact pixel margins every time. I can rely on utility classes. That frees up mental energy to focus on functionality instead of micromanaging layout details.
 
-UI frameworks make the most sense when:
+This is especially important in team environments. Code is read more than it is written. A standardized system helps everyone move faster.
 
-- Building structured, content-driven websites  
-- Working in teams  
-- Needing consistent responsive behavior  
-- Prioritizing development speed  
+## CSS Still Matters
 
-They are especially valuable in educational settings, where learning layout principles quickly allows students to focus on larger architectural ideas.
+That said, CSS is still important.
 
-Frameworks are not magic. They simply encode best practices into reusable components.
+If someone uses a UI framework without understanding CSS, customization becomes painful. Frameworks are not replacements for knowledge. They are tools built on top of core principles.
+
+Raw HTML and CSS give you full control. For highly custom designs or unique branding, frameworks can feel limiting. And if someone blindly copies Bootstrap components without understanding them, sites can start looking generic.
+
+But in practice, UI frameworks are becoming the standard for a reason. They provide structure, responsiveness, and consistency out of the box.
 
 ## Final Thoughts
 
-UI frameworks like Bootstrap are not simple. They require patience and repetition before they feel natural. But what they provide in return is clarity, structure, and scalability.
+Learning Bootstrap was frustrating at first. It slowed me down. It forced me to adjust how I think about layout.
 
-After working through multiple rebuild assignments this semester, I no longer see Bootstrap as an unnecessary abstraction. I see it as a standardized system that reduces chaos and improves collaboration. It does not eliminate complexity. It manages it.
+But over time, it increased my speed and improved the quality of my work.
 
-And in software engineering, managing complexity is everything.
+UI frameworks are not shortcuts. They are structured systems. They require an initial investment of time and patience. Once you get used to them, they make building modern, responsive websites much more efficient.
+
+I still value CSS. But now I see UI frameworks as good practice and, in many cases, the smarter default choice.
+
+Sometimes the tools that feel slow at the beginning are the ones that scale best later.
 
 ---
 
-*This essay was written by me with light ChatGPT assistance for organization and structural refinement. The ideas and reflections are based on my personal experience using Bootstrap 5 during this semester.*
+*I used ChatGPT to assist with drafting and refining this essay. The experiences and opinions expressed are based on my own work using Bootstrap 5 during this semester.*
