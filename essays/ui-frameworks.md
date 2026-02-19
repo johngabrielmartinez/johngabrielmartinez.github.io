@@ -59,13 +59,6 @@ Additionally, using a framework without understanding CSS fundamentals can be da
 
 Learning raw CSS first builds stronger intuition. Frameworks then become amplifiers of that knowledge.
 
-## The Productivity Shift
-
-During my first Bootstrap assignment, I felt slowed down by the class-heavy syntax. By the time I completed later rebuild exercises, I noticed something different. I began anticipating the layout structure before writing it. I started thinking in terms of rows, columns, and responsive breakpoints automatically.
-
-The framework stopped feeling like an obstacle and started feeling like a toolkit.
-
-That shift mirrors a common pattern in software engineering: initial friction leads to long-term efficiency. The investment of time pays off through speed, predictability, and reduced debugging.
 
 ## When to Use a UI Framework
 
