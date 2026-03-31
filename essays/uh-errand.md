@@ -17,7 +17,7 @@ labels:
 John Gabriel Martinez,
 Ella Self,
 Mason Vuong,
-Peyton,
+Peyton Young,
 Tuan Do
 
 ## The Problem
