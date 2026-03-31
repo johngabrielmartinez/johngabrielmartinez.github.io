@@ -7,7 +7,6 @@ published: true
 labels:
   - Software Engineering
   - Nextjs
-  - React
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="../img/carpooling.jpeg">
