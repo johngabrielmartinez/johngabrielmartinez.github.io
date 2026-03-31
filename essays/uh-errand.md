@@ -14,11 +14,11 @@ labels:
 
 ## Proposers
 
-John Gabriel Martinez
-Ella Self
-Mason Vuong
-Peyton
-Tuan Do
+John Gabriel Martinez,
+Ella Self,
+Mason Vuong,
+Peyton,
+Tuan Do,
 
 ## The Problem
 
