@@ -88,4 +88,4 @@ Overall, UH Errand Buddy is a practical and scalable idea that balances real-wor
 
 ---
 
-*I used ChatGPT to assist with brainstorming and refining this project idea. The final proposal and explanations reflect my own understanding and perspective.*
+*ChatGPT is used to assist with brainstorming and refining this project idea. The final proposal and explanations reflect our own understanding and perspective.*
