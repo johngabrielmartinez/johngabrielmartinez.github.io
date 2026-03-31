@@ -10,7 +10,7 @@ labels:
   - React
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/rideshare/carpooling.jpeg">
+<img width="300px" class="rounded float-start pe-4" src="../img/carpooling.jpeg">
 
 ## Proposers
 
