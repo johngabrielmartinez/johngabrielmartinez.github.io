@@ -18,7 +18,7 @@ John Gabriel Martinez,
 Ella Self,
 Mason Vuong,
 Peyton,
-Tuan Do,
+Tuan Do
 
 ## The Problem
 
