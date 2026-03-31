@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "UH Errand Buddy: Making Everyday Tasks Easier for Students"
+title: "Final Project Proposal"
 date: 2026-03-30
 published: true
 labels:
