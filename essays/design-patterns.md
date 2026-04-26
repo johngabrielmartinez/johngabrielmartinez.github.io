@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Building With Blueprints"
-date: 2026-04-24
+date: 2026-04-25
 published: true
 labels:
   - Design Patterns
