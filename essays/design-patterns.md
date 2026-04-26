@@ -11,7 +11,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/building-with-blueprints/software-design-blueprint.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/design-patterns.webp">
 
 ## Patterns Hidden in Plain Sight
 
