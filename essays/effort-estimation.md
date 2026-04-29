@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "The Work Behind The Work"
-date: 2026-04-24
+date: 2026-04-28
 published: true
 labels:
   - Effort Estimation
