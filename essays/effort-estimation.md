@@ -11,7 +11,7 @@ labels:
   - AI Assistance
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/effort-estimation/clock-planning.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/debugging.gif">
 
 ## Guessing the Work Before Doing the Work
 
