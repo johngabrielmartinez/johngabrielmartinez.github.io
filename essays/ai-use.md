@@ -14,7 +14,7 @@ labels:
   - Next.js
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/ai-coding.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/ai-coding.avif">
 
 ## I. Introduction
 
