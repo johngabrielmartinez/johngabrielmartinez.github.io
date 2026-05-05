@@ -30,21 +30,25 @@ Overall, AI became a significant part of how I approached software engineering d
 
 ### Experience WODs
 
-I used AI frequently during the Experience WODs, especially when learning new frameworks or syntax for the first time. Many of the WODs involved concepts that were unfamiliar to me at the beginning, such as React components, TypeScript typing, routing, and framework-specific conventions. In several cases, AI helped me understand how to begin a problem when I felt stuck.
+I used AI heavily throughout the Experience WODs after the first few assignments. At the beginning of the semester, I tried completing the first class WOD mostly on my own because I wanted to understand how the course worked first. However, once the WODs started involving React, TypeScript, routing, ESLint, and framework-specific conventions, AI became a major part of my workflow.
 
-For example, during React and TypeScript-related WODs, I asked ChatGPT questions such as:
+Many of the WODs introduced concepts that were unfamiliar to me at the time, so I frequently used ChatGPT to help me understand how to approach problems and debug issues more efficiently. Some prompts I commonly used included:
 
 > “How do I pass props correctly in TypeScript React components?”
 >
 > “Why is this ESLint error happening in my React file?”
 >
 > “Show an example of using useState and props together.”
+>
+> “Why is this React component not rendering correctly?”
 
-AI was useful because it gave quick explanations and working examples that helped me understand the structure of the code faster than reading documentation alone. However, the generated code was not always compatible with the exact requirements of the WOD. Sometimes the solutions were overly complicated or used patterns that had not yet been taught in class. Because of that, I often had to simplify or rewrite portions of the generated code myself.
+For the most part, AI helped me complete the WODs faster and reduced the amount of time spent stuck on small framework or syntax issues. It was especially useful when I already understood the overall goal of the WOD but needed help understanding why something was failing.
+
+At the same time, AI was not always reliable. Some generated solutions were overly complicated, used patterns we had not learned yet, or did not actually satisfy the requirements of the assignment. There were also situations where AI simply could not identify the real issue, forcing me to debug the problem myself anyway. Because of that, I learned that AI worked best as a fast assistant and debugging partner rather than something I could trust blindly.
 
 ### In-class Practice WODs
 
-For the in-class practice WODs, AI mainly acted as a support tool rather than a direct answer generator. These exercises were more time-sensitive, so I often used ChatGPT for quick clarification rather than asking it to solve the entire problem.
+I also used AI frequently during the in-class practice WODs. Since these exercises were designed to prepare us for the actual WODs, I often used ChatGPT to reinforce concepts, review syntax, and troubleshoot problems while practicing under time pressure.
 
 Some example prompts I used were:
 
@@ -53,22 +57,30 @@ Some example prompts I used were:
 > “How do I map over an array in React?”
 >
 > “What is the difference between props and state?”
+>
+> “Why is this JSX syntax invalid?”
 
-These shorter explanations were helpful because they allowed me to continue working without spending too much time searching through documentation. AI was especially useful when I needed reminders about syntax or framework behavior under time pressure.
+These explanations were useful because they allowed me to continue practicing without spending too much time searching through documentation or older examples. AI was especially helpful for quickly refreshing concepts that I partially understood but could not remember completely during practice sessions.
+
+However, I also noticed that relying too heavily on AI during practice could sometimes slow me down. There were moments where generated explanations became unnecessarily detailed or introduced solutions more complicated than what the WOD actually required. Over time, I became more selective about when AI was genuinely helpful versus when it was faster to debug the issue manually.
 
 ### In-class WODs
 
-I used AI less during the actual in-class WODs because of the strict time limits and the need to work quickly. In those situations, constantly switching between coding and asking AI questions could become distracting. Instead, I mainly relied on knowledge gained from previous practice and experience WODs.
+After the first few WODs, AI became a major part of how I approached the actual in-class WODs as well. Because the WODs were timed and often involved strict ESLint, TypeScript, or framework requirements, I frequently used ChatGPT to troubleshoot issues quickly and help me understand why something was failing.
 
-When I did use AI during in-class WODs, it was usually for very focused questions such as:
+Some prompts I commonly used included:
 
-> “Why is this JSX syntax invalid?”
+> “Why is this React component failing ESLint?”
 >
-> “How do I fix this ESLint warning quickly?”
+> “Fix this TypeScript typing issue.”
 >
-> “What is the correct TypeScript type for this prop?”
+> “Why is this prop undefined?”
+>
+> “Help me debug this Next.js page.”
 
-AI was helpful for catching small mistakes or reminding me of syntax, but it was not always reliable under pressure. Some generated solutions introduced unnecessary complexity, which could make debugging even harder during a timed exercise.
+For the most part, AI helped me complete WODs faster and reduced the amount of time spent completely stuck on small issues. It was especially useful when I already understood the overall objective of the assignment but needed help identifying framework-specific mistakes or syntax errors quickly.
+
+At the same time, AI was not always reliable under pressure. Some generated solutions were overly complicated, did not follow course expectations, or introduced entirely new bugs. There were also situations where AI could not solve the issue correctly at all, forcing me to troubleshoot the problem manually anyway. Because of that, I learned that AI worked best as a fast support tool rather than a perfect solution generator during timed exercises.
 
 ### Essays
 
@@ -116,9 +128,9 @@ Being able to ask follow-up questions made AI especially useful compared to stat
 
 ### Answering a Question in Class or in Discord
 
-There were times when I used AI before asking questions in Discord or during class discussions. Instead of immediately asking for help, I sometimes asked ChatGPT first to see if I could solve the issue independently.
+I rarely asked or answered questions in class or in Discord during ICS 314. Most of the time, when I encountered problems, I preferred trying to solve them independently first rather than posting questions publicly. Because of that, AI often became my first source of troubleshooting and clarification instead of class discussions or Discord conversations.
 
-For example:
+For example, when I encountered issues involving deployment failures, TypeScript errors, Prisma queries, or React behavior, I usually asked ChatGPT questions such as:
 
 > “Why is my Vercel deployment failing?”
 >
@@ -126,33 +138,35 @@ For example:
 >
 > “Why does this page render locally but fail in production?”
 
-Sometimes AI solved the issue completely. Other times, it at least helped me narrow down the problem before asking classmates or instructors for clarification.
+In many situations, AI helped me narrow down the issue enough that I no longer felt the need to ask others for help. While I did not participate heavily in discussions, AI still allowed me to work through many confusing problems independently throughout the semester.
 
 ### Asking or Answering a Smart-question
 
-AI also helped me improve the quality of questions I asked. Instead of posting vague questions such as “my code does not work,” AI helped me identify what information was important to include.
+I also did not spend much time formally asking or answering smart-questions during the semester. Since I usually tried solving issues independently first, I often relied on AI to help me think through problems rather than preparing questions for classmates or instructors.
 
-For example, I used prompts like:
+Instead of asking other people directly, I would ask ChatGPT very specific debugging or clarification questions such as:
 
-> “How can I describe this bug more clearly?”
+> “What is likely causing this React hook error?”
 >
-> “What information should I include when asking about a Prisma error?”
+> “Why is this Prisma query failing?”
+>
+> “What information is important when debugging this issue?”
 
-This indirectly improved my communication skills because I became more aware of how to explain problems clearly and provide useful debugging context.
+Using AI this way still helped improve my problem-solving process because it encouraged me to describe bugs more clearly and think carefully about what information was actually relevant. Even though I was not actively participating in many public discussions, AI indirectly helped me become better at identifying and explaining technical problems.
 
 ### Coding Example
 
-One of the most common ways I used AI was for coding examples. Instead of asking for full solutions, I often asked for small examples demonstrating syntax or framework usage.
+I occasionally used AI for coding examples, although most of the time I used it more for debugging and troubleshooting than for learning isolated syntax examples. When I did ask for examples, it was usually because I needed a quick reference for how a specific framework feature or pattern was supposed to be structured.
 
-Some examples included:
+Some prompts I used included:
 
-> “Give an example of mapping over an array in React.”
+> “Show an example of TypeScript props in React.”
 >
-> “Show an example of TypeScript props.”
+> “Give an example of a Prisma query with filtering.”
 >
-> “Give an example of Prisma findMany with filtering.”
+> “How do I structure a Next.js API route?”
 
-These examples were useful because they provided quick references without requiring me to search through multiple documentation pages.
+These examples were useful because they helped me understand the general structure of components, queries, or framework features without needing to search through multiple documentation pages. However, I usually had to modify the generated examples to fit the actual project requirements or course expectations. In many situations throughout the semester, I relied more heavily on AI for debugging existing code than for generating entirely new example code from scratch.
 
 ### Explaining Code
 
