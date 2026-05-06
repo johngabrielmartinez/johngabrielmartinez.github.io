@@ -71,3 +71,5 @@ Through Agile Project Management, I learned the importance of iterative developm
 Although this course focused on web application development, the underlying engineering concepts clearly apply far beyond websites. The lessons I learned about collaboration, debugging, version control, testing, and project organization are valuable for many different types of software projects and technical careers.
 
 Overall, ICS 314 helped me understand that software engineering is not simply about coding quickly or making programs function. It is about building reliable systems in a structured, maintainable, and collaborative way.
+
+*This essay was written by me with moderate AI assistance used primarily for brainstorming, organization, wording refinement, and reflection development.*
