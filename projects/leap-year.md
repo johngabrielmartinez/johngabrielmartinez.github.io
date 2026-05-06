@@ -4,7 +4,7 @@ type: project
 image: img/basic-java-pics/gregory.jpg
 title: "Leap Year Calculator"
 date: Spring 2025
-published: true
+published: false
 labels:
   - Java
   - Algorithms
