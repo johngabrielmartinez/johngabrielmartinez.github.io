@@ -4,7 +4,7 @@ type: project
 image: img/house-true-street.jpg
 title: "Independent Residential House Design Using AutoCAD"
 date: Fall 2024
-published: true
+published: false
 labels:
   - Technical Design
   - AutoCAD
