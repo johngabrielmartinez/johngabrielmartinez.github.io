@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/react-tictactoe/react-tictactoe-square.png
+image: img/react-tictactoe/react-tictactoe-square.avif
 title: "React Tic-Tac-Toe Game"
 date: Spring 2026
 published: true
