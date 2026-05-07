@@ -4,7 +4,7 @@ type: project
 image: img/basic-java-pics/time1.jpg
 title: "Seconds Calculator"
 date: Spring 2025
-published: true
+published: false
 labels:
   - Java
   - Problem Solving
