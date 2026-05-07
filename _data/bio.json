@@ -24,7 +24,7 @@
   "skills": [
     {
       "name": "Programming Languages",
-      "keywords": [ "Java", "JavaScript", "TypeScript", "SQL" ]
+      "keywords": [ "Java", "C", "C++", "JavaScript", "TypeScript", "SQL" ]
     },
     {
       "name": "Web Technologies",
