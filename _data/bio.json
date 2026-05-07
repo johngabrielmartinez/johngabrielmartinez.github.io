@@ -16,28 +16,23 @@
   "interests": [
     { "name": "Interactive Media" },
     { "name": "Game Development" },
-    { "name": "Frontend Development" },
-    { "name": "UI/UX" },
+    { "name": "UI/UX Design" },
     { "name": "Software Engineering" },
-    { "name": "Secure Systems Design" },
+    { "name": "Cybersecurity" },
     { "name": "Web Application Development" },
   ],
   "skills": [
     {
       "name": "Programming Languages",
-      "keywords": [ "Java", "JavaScript", "TypeScript" ]
+      "keywords": [ "Java", "JavaScript", "TypeScript", "SQL" ]
     },
     {
       "name": "Web Technologies",
-      "keywords": [ "HTML", "CSS" ]
+      "keywords": [ "HTML", "CSS", "React", "Next.js", "Bootstrap" ]
     },
     {
       "name": "Tools & Environments",
-      "keywords": [ "Windows", "Unix/Linux Environment", "Git/GitHub", "Command Line" ]
-    },
-    {
-      "name": "Design & Modeling Tools",
-      "keywords": [ "AutoCAD" ]
+      "keywords": [ "Unix/Linux", "Git/GitHub", "Prisma", "Neon/PostgreSQL", "Vercel", "VS Code" ]
     }
   ],
   "education": [
@@ -60,8 +55,8 @@
       "endDate": "2023-05-30",
       "summary": "Customer service and team-based food service operations",
       "highlights": [
-        "Worked in a fast-paced, team-oriented environment",
-        "Handled customer orders and transactions accurately",
+        "Worked effectively in a fast-paced, team-oriented environment",
+        "Assisted customers and processed transactions accurately",
        "Maintained cleanliness and followed safety procedures"
       ]
     }
@@ -70,7 +65,7 @@
     {
       "organization": "Church Community Group (Adopt-A-Highway Program)",
       "position": "Volunteer",
-      "summary": "Participated in community clean-up activities through the Adopt-A-Highway program.",
+      "summary": "Participated in roadside and community clean-up efforts through the Adopt-A-Highway program.",
       "highlights": [
         "Assisted with roadside clean-up and maintenance efforts",
         "Worked collaboratively with group members on community service initiatives"
